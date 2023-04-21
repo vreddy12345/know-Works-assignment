@@ -1,0 +1,196 @@
+@import url('https://fonts.googleapis.com/css2?family=Bree+Serif&family=Caveat:wght@400;700&family=Lobster&family=Monoton&family=Open+Sans:ital,wght@0,400;0,700;1,400;1,700&family=Playfair+Display+SC:ital,wght@0,400;0,700;1,700&family=Playfair+Display:ital,wght@0,400;0,700;1,700&family=Roboto:ital,wght@0,400;0,700;1,400;1,700&family=Source+Sans+Pro:ital,wght@0,400;0,700;1,700&family=Work+Sans:ital,wght@0,400;0,700;1,700&display=swap');
+
+.bg-container1 {
+    background-color: #ffa1a9;
+}
+
+.image-container1 {
+    height: 50px;
+    width: 50px;
+    border: 3px solid #2a2a63;
+    border-radius: 40px;
+    color: #2a2a63;
+
+
+}
+
+@media only screen and (min-width: 768px) {
+    .image-container1 {
+        height: 60px;
+        width: 60px;
+    }
+}
+
+.image {
+    font-size: 20px;
+}
+
+@media only screen and (min-width: 768px) {
+    .image {
+        font-size: 30px;
+    }
+}
+
+.profile {
+    font-size: 8px;
+    color: #2a2a63;
+    font-weight: 600;
+}
+
+@media only screen and (min-width: 768px) {
+    .profile {
+        font-size: 12px;
+    }
+}
+
+.name {
+    font-family: "Roboto";
+    font-size: 20px;
+    color: #2a2a63;
+}
+
+@media only screen and (min-width: 768px) {
+    .name {
+        font-size: 30px;
+    }
+}
+
+.profession {
+    font-family: "Roboto";
+    font-size: 12px;
+    color: #2a2a63;
+}
+
+@media only screen and (min-width: 768px) {
+    .profession {
+        font-size: 10px;
+    }
+}
+
+.first-row-text {
+    font-size: 10px;
+    color: #2a2a63;
+}
+
+@media only screen and (min-width: 768px) {
+    .first-row-text {
+        font-size: 12px;
+    }
+}
+
+.name-container {
+    height: 140px;
+    border-right: 1px solid #2a2a63;
+    border-bottom: 2px solid #2a2a63;
+}
+
+@media only screen and (min-width: 768px) {
+    .name-container {
+        height: 130px;
+    }
+}
+
+.description-container {
+    height: 140px;
+    border-left: 1px solid #2a2a63;
+    border-bottom: 2px solid #2a2a63;
+}
+
+@media only screen and (min-width: 768px) {
+    .description-container {
+        height: 130px;
+    }
+}
+
+
+.year {
+    font-size: 10px;
+    color: #2a2a63;
+}
+
+.work-space {
+    font-size: 8px;
+    color: #2a2a63;
+}
+
+.work-description {
+    font-size: 10px;
+    color: #2a2a63;
+}
+
+.skills-container {
+    height: 130px;
+    border-top: 2px solid #2a2a63;
+    border-right: 1px solid #2a2a63;
+    border-bottom: 2px solid #2a2a63;
+}
+
+.awards-container {
+    height: 130px;
+    border-top: 2px solid #2a2a63;
+    border-left: 1px solid #2a2a63;
+    border-bottom: 2px solid #2a2a63;
+}
+
+.skill {
+    width: 90px;
+    font-size: 10px;
+    color: #2a2a63;
+}
+
+.dot {
+    height: 8px;
+    width: 8px;
+    background-color: #2a2a63;
+    border-radius: 50%;
+    display: inline-block;
+}
+
+@media only screen and (min-width: 768px) {
+    .dot {
+        height: 10px;
+        width: 10px;
+    }
+}
+
+.dot-container {
+    height: 20px;
+    padding: 0px;
+}
+
+.skill-container {
+    height: 20px;
+}
+
+.education-container {
+    border-top: 2px solid #2a2a63;
+    border-bottom: 2px solid #2a2a63;
+}
+
+.each-intrest {
+    width: 100px;
+}
+
+.toggle-color {
+    font-size: 30px;
+    color: #ffa1a9;
+}
+
+.image-container-each {
+    height: 50px;
+    width: 50px;
+    border: 3px solid #2a2a63;
+    border-radius: 40px;
+    color: #2a2a63;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: #2a2a63;
+}
+
+@media only screen and (min-width: 768px) {
+    .image-container-each {
+        height: 60px;
+        width: 60px;
+    }
+}
